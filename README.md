@@ -19,7 +19,6 @@ When you are on `main.ipynb`, read the instructions for each cell and provide yo
 ## Deliverables
 
 - `pandas_1.ipynb` with your responses to each of the exercises.
-- `pandas_2_concat-merge-join.ipynb` with your responses to each of the exercises.
 
 
 ## Submission
